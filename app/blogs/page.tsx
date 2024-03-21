@@ -1,4 +1,4 @@
-import BlogCard from '@/Components/BlogComponents/BlogCard'
+import BlogCard from '@/components/BlogComponents/BlogCard'
 import request from 'graphql-request'
 
 interface BlogDataTypes {
